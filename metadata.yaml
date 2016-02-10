@@ -1,0 +1,21 @@
+_repo: Harry-F-Marks-Catalogue-No-4-1919-Choice-and-Unusual-Books_47014
+creator:
+  author:
+    agent_name: Harry F. Marks (Firm)
+    gutenberg_agent_id: '44092'
+    url: http://www.gutenberg.org/2009/agents/44092
+description: ''
+gutenberg_issued: '2014-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Booksellers'' catalogs -- New York (State) -- New York'
+title: 'Harry F. Marks Catalogue No. 4, 1919
+
+  Choice and Unusual Books'
+url: http://www.gutenberg.org/ebooks/47014
